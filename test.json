@@ -1,0 +1,60 @@
+    "spot": [
+        {
+            "id": 1,
+            "name": "お台場",
+            "cost": 1000,
+            "destination": "tokyo"
+        },
+        {
+            "id": 2,
+            "name": "歌舞伎座",
+            "cost": 1000,
+            "destination": "tokyo"
+        },        {
+            "id": 3,
+            "name": "航空機工場見学",
+            "cost": 1000,
+            "destination": "tokyo"
+        },
+        {
+            "id": 4,
+            "name": "上野動物園",
+            "cost": 1000,
+            "destination": "tokyo"
+        },        {
+            "id": 5,
+            "name": "皇居参観",
+            "cost": 1000,
+            "destination": "tokyo"
+        },
+        {
+            "id": 6,
+            "name": "和船乗船体験",
+            "cost": 1000,
+            "destination": "tokyo"
+        },        {
+            "id": 7,
+            "name": "葛西臨海水族園",
+            "cost": 1000,
+            "destination": "tokyo"
+        },
+        {
+            "id": 8,
+            "name": "歌舞伎座",
+            "cost": 1000,
+            "destination": "tokyo"
+        },
+        {
+            "id": 9,
+            "name": "FabCafe Tokyo",
+            "cost": 1000,
+            "destination": "tokyo"
+        },
+        {
+            "id": 10,
+            "name": "自由が丘なぞともCafe",
+            "cost": 1000,
+            "destination": "tokyo"
+        }
+    ]
+}
