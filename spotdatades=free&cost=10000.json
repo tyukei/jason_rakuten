@@ -1,22 +1,65 @@
 {
-  "spot": [
-    {
-      "id": 1,
-      "name": "ディズニーランド",
-      "cost": 10000,
-      "destination": "tokyo"
-    },
-    {
-      "id": 2,
-      "name": "西武園遊園地",
-      "cost": 10000,
-      "destination": "saitama"
-    },
-    {
-      "id": 3,
-      "name": "三井アウトレットパーク木更津",
-      "cost": 10000,
-      "destination": "chiba"
-    }
-  ]
+    "spot": [
+        {
+            "id": 1,
+            "name": "ディズニーランド",
+            "cost": 10000,
+            "destination": "tokyo"
+        },
+        {
+            "id": 2,
+            "name": "西武園遊園地",
+            "cost": 10000,
+            "destination": "saitama"
+        },        
+        {
+            "id": 3,
+            "name": "三井アウトレットパーク木更津",
+            "cost": 10000,
+            "destination": "chiba"
+        },
+        {
+            "id":4,
+            "name":"鬼怒川",
+            "cost": 10000,
+            "destination":"tochigi",
+        },
+        {
+            "id":5,
+            "name":"箱根温泉",
+            "cost": 10000,
+            "destination":"kanagawa",
+        },
+        {
+            "id":6,
+            "name":"富士急ハイランド",
+            "cost": 10000,
+            "destination":"yamanashi", 
+        },
+        {
+            "id":7,
+            "name":"河口湖",
+            "cost": 10000,
+            "destination":"yamanashi",
+        },
+        {
+            "id":8,
+            "name":"熱海",
+            "cost": 10000,
+            "destination":"tokyo",
+        },
+        {
+            "id":9,
+            "name":"四万温泉",
+            "cost": 10000,
+            "destination":"gunnma",
+        },
+        {
+            "id":10,
+            "name":"別所温泉",
+            "cost": 10000,
+            "destination":"nagano",
+        }
+        
+    ]
 }
