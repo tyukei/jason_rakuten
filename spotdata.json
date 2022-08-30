@@ -1,50 +1,46 @@
 {
-    "spot": [
-        {
-            "id": 1,
-            "name": ["お台場"],
-            "cost": 1000,
-            "destination": "tokyo"
-        },
-        {
-            "id": 2,
-            "name": ["東京スカイツリー"],
-            "cost": 5000,
-            "destination": "tokyo"
-        },
-        {
-            "id": 3,
-            "name": ["ディス二ーランド"],
-            "cost": 10000,
-            "destination": "tokyo"
-        },
-        {
-            "id": 4,
-            "name": ["越谷レイクタウン"],
-            "cost": 1000,
-            "destination": "saitama"
-        },
-        {
-            "id": 5,
-            "name": ["川越水上公園"],
-            "cost": 5000,
-            "destination": "saitama"
-        },
-        {
-            "id": 6,
-            "name":["西武園遊園地"],
-            "cost": 10000,
-            "destination": "saitama"
-        },
-        {
-            "id": 7,
-            "name": [
-                "鴨川シーワールド",
-                "マザー牧場"
-            ],
-            "cost": 10000,
-            "destination": "chiba"
-        }
-
-    ]
+  "spot": [
+    {
+      "id": 1,
+      "name": "お台場",
+      "cost": 1000,
+      "destination": "tokyo"
+    },
+    {
+      "id": 2,
+      "name": "東京スカイツリー",
+      "cost": 5000,
+      "destination": "tokyo"
+    },
+    {
+      "id": 3,
+      "name": "ディス二ーランド",
+      "cost": 10000,
+      "destination": "tokyo"
+    },
+    {
+      "id": 4,
+      "name": "越谷レイクタウン",
+      "cost": 1000,
+      "destination": "saitama"
+    },
+    {
+      "id": 5,
+      "name": "川越水上公園",
+      "cost": 5000,
+      "destination": "saitama"
+    },
+    {
+      "id": 6,
+      "name": "西武園遊園地",
+      "cost": 10000,
+      "destination": "saitama"
+    },
+    {
+      "id": 7,
+      "name": "鴨川シーワールド",
+      "cost": 10000,
+      "destination": "chiba"
+    }
+  ]
 }
