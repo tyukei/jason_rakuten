@@ -14,13 +14,13 @@
         },        
         {
             "id": 3,
-            "name": "三井アウトレットパーク木更津",
+            "name": "六本木ヒルズ",
             "cost": 10000,
             "destination": "tokyo"
         },
         {
             "id":4,
-            "name":"鬼怒川",
+            "name":"サンシャイン水族館",
             "cost": 10000,
             "destination": "tokyo"
         },
@@ -32,31 +32,31 @@
         },
         {
             "id":6,
-            "name":"富士急ハイランド",
+            "name":"浅草花やしき",
             "cost": 10000,
             "destination": "tokyo"
         },
         {
             "id":7,
-            "name":"河口湖",
+            "name":"東京ドームシティ",
             "cost": 10000,
             "destination": "tokyo"
         },
         {
             "id":8,
-            "name":"熱海",
+            "name":"アクアパーク品川",
             "cost": 10000,
             "destination":"tokyo",
         },
         {
             "id":9,
-            "name":"四万温泉",
+            "name":"東京ジョイポリス",
             "cost": 10000,
             "destination": "tokyo"
         },
         {
             "id":10,
-            "name":"別所温泉",
+            "name":"コニカミノルタプラネタリアTOKYO",
             "cost": 10000,
             "destination": "tokyo"
         }
