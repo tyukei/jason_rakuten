@@ -17,6 +17,48 @@
       "name": "成田山新勝寺",
       "cost": 1000,
       "destination": "chiba"
-    }
+    },
+    {
+            "id":4,
+            "name": "新宿御苑",
+            "cost": 1000,
+            "destination": "tokyo"
+        },
+        {
+            "id":5,
+            "name": "渋谷109",
+            "cost": 1000,
+            "destination": "tokyo"
+        },
+        {
+            "id":6,
+            "name": "国会議事堂",
+            "cost": 1000,
+            "destination": "tokyo"
+        },
+        {
+            "id":7,
+            "name": "浅草寺",
+            "cost": 1000,
+            "destination": "tokyo"
+        },
+        {
+            "id":8,
+            "name": "サンシャイン水族館",
+            "cost": 1000,
+            "destination": "tokyo"
+        },
+        {
+            "id":9,
+            "name": "成田空港",
+            "cost": 1000,
+            "destination": "chiba"
+        },
+        {
+            "id":10,
+            "name": "幕張メッセ",
+            "cost": 1000,
+            "destination": "chiba"
+        }
   ]
 }
