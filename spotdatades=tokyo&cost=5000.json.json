@@ -1,1 +1,64 @@
-
+{
+    "spot": [
+        {
+            "id": 1,
+            "name": "東京スカイツリー",
+            "cost": 5000,
+            "destination": "tokyo"
+        },
+        {
+            "id": 2,
+            "name": "すみだ江戸切子館",
+            "cost": 5000,
+            "destination": "tokyo"
+        },
+        {
+            "id": 3,
+            "name": "AKB48劇場",
+            "cost": 5000,
+            "destination": "tokyo"
+        },
+        {
+            "id": 4,
+            "name": "東京ジョイポリス",
+            "cost": 5000,
+            "destination": "tokyo"
+        },
+        {
+            "id": 5,
+            "name": "森ビル デジタルアート ミュージアム",
+            "cost": 5000,
+            "destination": "tokyo"
+        },
+        {
+            "id": 6,
+            "name": "東京サマーランド",
+            "cost": 5000,
+            "destination": "tokyo"
+        },
+        {
+            "id": 7,
+            "name": "スモールワールズ TOKYO",
+            "cost": 5000,
+            "destination": "tochigi"
+        },
+        {
+            "id": 8,
+            "name": "上野動物園",
+            "cost": 5000,
+            "destination": "tokyo"
+        },
+        {
+            "id": 9,
+            "name": "よみうりランド",
+            "cost": 5000,
+            "destination": "tokyo"
+        },
+        {
+            "id": 10,
+            "name": "小江戸・川越",
+            "cost": 5000,
+            "destination": "tokyo"
+        }
+    ]
+}
