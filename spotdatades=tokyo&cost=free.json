@@ -1,0 +1,22 @@
+{
+  "spot": [
+    {
+      "id": 1,
+      "name": "お台場",
+      "cost": 1000,
+      "destination": "tokyo"
+    },
+    {
+      "id": 2,
+      "name": "東京スカイツリー",
+      "cost": 5000,
+      "destination": "tokyo"
+    },
+    {
+      "id": 3,
+      "name": "ディズニーランド",
+      "cost": 10000,
+      "destination": "tokyo"
+    }
+  ]
+}
