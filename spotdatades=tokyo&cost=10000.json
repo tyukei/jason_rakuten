@@ -1,0 +1,22 @@
+{
+  "spot": [
+    {
+      "id": 1,
+      "name": "ディズニーランド",
+      "cost": 10000,
+      "destination": "tokyo"
+    },
+    {
+      "id": 2,
+      "name": "西武園遊園地",
+      "cost": 10000,
+      "destination": "saitama"
+    },
+    {
+      "id": 3,
+      "name": "三井アウトレットパーク木更津",
+      "cost": 10000,
+      "destination": "chiba"
+    }
+  ]
+}
