@@ -17,6 +17,48 @@
             "name": "鴨川シーワールド",
             "cost": 5000,
             "destination": "chiba"
+        },
+        {
+            "id": 4,
+            "name": "富士山",
+            "cost": 5000,
+            "destination": "shizuoka"
+        },
+        {
+            "id": 5,
+            "name": "国営ひたち海浜公園",
+            "cost": 5000,
+            "destination": "ibaraki"
+        },
+        {
+            "id": 6,
+            "name": "東京サマーランド",
+            "cost": 5000,
+            "destination": "tokyo"
+        },
+        {
+            "id": 7,
+            "name": "日光東照宮",
+            "cost": 5000,
+            "destination": "tochigi"
+        },
+        {
+            "id": 8,
+            "name": "上野動物園",
+            "cost": 5000,
+            "destination": "tochigi"
+        },
+        {
+            "id": 9,
+            "name": "よみうりランド",
+            "cost": 5000,
+            "destination": "tochigi"
+        },
+        {
+            "id": 10,
+            "name": "小江戸・川越",
+            "cost": 5000,
+            "destination": "tochigi"
         }
     ]
 }
