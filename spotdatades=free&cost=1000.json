@@ -1,0 +1,22 @@
+{
+  "spot": [
+    {
+      "id": 1,
+      "name": "お台場",
+      "cost": 1000,
+      "destination": "tokyo"
+    },
+    {
+      "id": 2,
+      "name": "越谷レイクタウン",
+      "cost": 1000,
+      "destination": "saitama"
+    },
+    {
+      "id": 3,
+      "name": "成田山新勝寺",
+      "cost": 1000,
+      "destination": "chiba"
+    }
+  ]
+}
