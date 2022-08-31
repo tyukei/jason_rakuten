@@ -34,31 +34,31 @@
             "id":6,
             "name":"富士急ハイランド",
             "cost": 10000,
-            "destination":"yamanashi", 
+            "destination":"yamanashi"
         },
         {
             "id":7,
             "name":"河口湖",
             "cost": 10000,
-            "destination":"yamanashi",
+            "destination":"yamanashi"
         },
         {
             "id":8,
             "name":"熱海",
             "cost": 10000,
-            "destination":"tokyo",
+            "destination":"tokyo"
         },
         {
             "id":9,
             "name":"四万温泉",
             "cost": 10000,
-            "destination":"gunnma",
+            "destination":"gunnma"
         },
         {
             "id":10,
             "name":"別所温泉",
             "cost": 10000,
-            "destination":"nagano",
+            "destination":"nagano"
         }
         
     ]
