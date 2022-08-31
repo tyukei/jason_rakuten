@@ -46,7 +46,7 @@
             "id":8,
             "name":"アクアパーク品川",
             "cost": 10000,
-            "destination":"tokyo",
+            "destination":"tokyo"
         },
         {
             "id":9,
